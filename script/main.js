@@ -3,7 +3,6 @@ window.addEventListener('load', () => {
     Swal.fire({
         title: 'เบบี๋พร้อมอะป่าวค้าบป๋ม ?',
         icon: 'warning',
-        showCancelButton: true,
         confirmButtonColor: '#3085d6',
         cancelButtonColor: '#d33',
         confirmButtonText: 'Yes',
